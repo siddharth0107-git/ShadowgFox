@@ -88,3 +88,15 @@ The internship improved my confidence in using data science tools and solving pr
 ---
 
 ## 📂 Repository Structure
+
+Beginner_Task/ → Visualization basics
+Intermediate_Task/ → Delhi AQI Analysis
+Advanced_Task/ → BMW Sales Analysis
+README.md → Final combined summary
+
+
+---
+
+## 🙌 Final Note  
+This internship helped me understand how data behaves across domains — environment, automobile, and analytics — and how to convert raw data into insights that matter.  
+If you want a **PDF version**, **portfolio-ready version**, or **GitHub-optimized design**, I can create that too.  
