@@ -103,7 +103,7 @@ If you want a **PDF version**, **portfolio-ready version**, or **GitHub-optimize
 
 
 ## 👤 Author
-**Name:** V. Siddharth  
+**Name:** Vunnagari Siddharth  
 **Internship:** ShadowFox Data Science    
 
 
