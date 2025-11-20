@@ -73,7 +73,7 @@ This helps show how pollution varies by season and source.
 ---
 
 ## 👤 Author
-**Name:** V. Siddharth  
+**Name:** Vunnagari Siddharth  
 **Internship:** ShadowFox Data Science  
 **Task Level:** Intermediate  
 **Month:** November 2025  
